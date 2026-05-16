@@ -365,16 +365,33 @@ If your skill is included and you'd like attribution adjusted, open an issue —
 
 <div align="center">
 
-### Star History
+### Repository Stats
 
-<a href="https://www.star-history.com/#artubss/SKILLS-CLAUDE-CODE&Date">
-  <img alt="Star History" src="https://api.star-history.com/svg?repos=artubss/SKILLS-CLAUDE-CODE&type=Date" width="720">
+<a href="https://github.com/artubss/SKILLS-CLAUDE-CODE">
+  <img alt="Repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=artubss&repo=SKILLS-CLAUDE-CODE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=00D9FF" />
+</a>
+<a href="https://github.com/artubss/SKILLS-CLAUDE-CODE">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artubss&repo=SKILLS-CLAUDE-CODE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,6,20,30&height=120&section=footer&text=Built%20for%20builders.%20Powered%20by%20Claude.&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer" />
+### Star History
 
-<sub>Last updated: <a href="https://github.com/artubss/SKILLS-CLAUDE-CODE/commits/main">see latest commits</a> · ⭐ a star helps it reach the next dev who needs it.</sub>
+<a href="https://www.star-history.com/#artubss/SKILLS-CLAUDE-CODE&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=artubss/SKILLS-CLAUDE-CODE&type=Date&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=artubss/SKILLS-CLAUDE-CODE&type=Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=artubss/SKILLS-CLAUDE-CODE&type=Date&theme=dark" width="720">
+  </picture>
+</a>
+
+<sub><i>Empty? That's because this repo just launched — <a href="https://github.com/artubss/SKILLS-CLAUDE-CODE/stargazers">drop a star</a> and you'll be on the timeline forever.</i></sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,6,20,30&height=140&section=footer&text=Built%20for%20builders.%20Powered%20by%20Claude.&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=68" alt="footer" width="100%" />
+
+<sub>Last updated: <a href="https://github.com/artubss/SKILLS-CLAUDE-CODE/commits/main">see latest commits</a> &nbsp;·&nbsp; ⭐ a star helps it reach the next dev who needs it &nbsp;·&nbsp; Made with care by <a href="https://github.com/artubss">@artubss</a></sub>
 
 </div>
