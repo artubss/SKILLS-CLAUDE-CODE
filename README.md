@@ -4,30 +4,28 @@
 
 <div align="center">
 
-<a href="https://github.com/artubss">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,6,20,30&height=220&section=header&text=Claude%20Skills%20Hub&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=The%20largest%20curated%20collection%20of%20Claude%20Code%20skills,%20agents%2C%20hooks%20%26%20MCPs&descAlignY=62&descSize=14" alt="Claude Skills Hub banner" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,6,20,30&height=200&section=header&text=Claude%20Skills%20Hub&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=42" alt="Claude Skills Hub" width="100%" />
 
-<br/>
+### The largest curated collection of Claude Code skills, agents, hooks &amp; MCPs
 
-<a href="https://github.com/artubss/claude-skills-hub">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=820&lines=1%2C044%2B+production-ready+SKILL.md+files;Curated+across+26+categories+%2B+28+agent+packs;Plug+%26+play+with+Claude+Code%2C+Cursor%2C+Codex+%26+more;Auto-triggered+by+natural+language;Open+source.+Battle-tested.+Always+growing." alt="Typing SVG" />
+<a href="https://github.com/artubss/SKILLS-CLAUDE-CODE">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=820&lines=1%2C044%2B+production-ready+SKILL.md+files;Curated+across+26+categories+%2B+28+agent+packs;Plug+%26+play+with+Claude+Code%2C+Cursor%2C+Codex+%26+more;Auto-triggered+by+natural+language;Open+source.+Battle-tested.+Always+growing." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- Badges row · trust + discovery signals -->
-<a href="https://github.com/artubss/claude-skills-hub/stargazers"><img alt="GitHub stars"   src="https://img.shields.io/github/stars/artubss/claude-skills-hub?style=for-the-badge&logo=github&color=FFD700&labelColor=0d1117"></a>
-<a href="https://github.com/artubss/claude-skills-hub/network/members"><img alt="Forks"     src="https://img.shields.io/github/forks/artubss/claude-skills-hub?style=for-the-badge&logo=git&color=00D9FF&labelColor=0d1117"></a>
-<a href="https://github.com/artubss/claude-skills-hub/issues"><img alt="Issues"           src="https://img.shields.io/github/issues/artubss/claude-skills-hub?style=for-the-badge&logo=github&color=FF6B6B&labelColor=0d1117"></a>
-<a href="https://github.com/artubss/claude-skills-hub/pulls"><img alt="PRs welcome"        src="https://img.shields.io/badge/PRs-welcome-22C55E?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117"></a>
+<a href="https://github.com/artubss/SKILLS-CLAUDE-CODE/stargazers"><img alt="GitHub stars"   src="https://img.shields.io/github/stars/artubss/SKILLS-CLAUDE-CODE?style=for-the-badge&logo=github&color=FFD700&labelColor=0d1117"></a>
+<a href="https://github.com/artubss/SKILLS-CLAUDE-CODE/network/members"><img alt="Forks"     src="https://img.shields.io/github/forks/artubss/SKILLS-CLAUDE-CODE?style=for-the-badge&logo=git&color=00D9FF&labelColor=0d1117"></a>
+<a href="https://github.com/artubss/SKILLS-CLAUDE-CODE/issues"><img alt="Issues"           src="https://img.shields.io/github/issues/artubss/SKILLS-CLAUDE-CODE?style=for-the-badge&logo=github&color=FF6B6B&labelColor=0d1117"></a>
+<a href="https://github.com/artubss/SKILLS-CLAUDE-CODE/pulls"><img alt="PRs welcome"        src="https://img.shields.io/badge/PRs-welcome-22C55E?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117"></a>
 <a href="./LICENSE"><img alt="License: MIT"                                                 src="https://img.shields.io/badge/license-MIT-7C3AED?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117"></a>
 <br/>
 <img alt="Skills"   src="https://img.shields.io/badge/SKILL.md_files-1%2C044%2B-7C3AED?style=flat-square&logo=anthropic&logoColor=white&labelColor=0d1117">
 <img alt="Agents"   src="https://img.shields.io/badge/agents-400%2B-00D9FF?style=flat-square&logo=robotframework&logoColor=white&labelColor=0d1117">
 <img alt="Commands" src="https://img.shields.io/badge/commands-341-22C55E?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117">
 <img alt="MCPs"     src="https://img.shields.io/badge/MCP_servers-13-FF6B6B?style=flat-square&logo=protonvpn&logoColor=white&labelColor=0d1117">
-<img alt="Last update" src="https://img.shields.io/github/last-commit/artubss/claude-skills-hub?style=flat-square&logo=git&color=orange&labelColor=0d1117">
+<img alt="Last update" src="https://img.shields.io/github/last-commit/artubss/SKILLS-CLAUDE-CODE?style=flat-square&logo=git&color=orange&labelColor=0d1117">
 
 </div>
 
@@ -39,7 +37,7 @@
 <p align="center">
   <strong>English</strong>
   &nbsp;·&nbsp;
-  <a href="https://github.com/artubss/claude-skills-hub/issues/new?title=Translation+request&labels=i18n">Translate this README</a>
+  <a href="https://github.com/artubss/SKILLS-CLAUDE-CODE/issues/new?title=Translation+request&labels=i18n">Translate this README</a>
 </p>
 <!-- LANGUAGE-SELECTOR-END -->
 
@@ -68,8 +66,8 @@
 ## Quick Start
 
 ```bash
-git clone https://github.com/artubss/claude-skills-hub.git
-cd claude-skills-hub
+git clone https://github.com/artubss/SKILLS-CLAUDE-CODE.git
+cd SKILLS-CLAUDE-CODE
 ```
 
 **Use a skill with Claude Code (just talk to it):**
@@ -135,7 +133,7 @@ cat skills-lock.json | jq .
 ## Repository Map
 
 ```text
-claude-skills-hub/
+SKILLS-CLAUDE-CODE/
 ├── .agents/skills/                # Source-of-truth skills (github, readme-i18n)
 ├── agents/agents/                 # 28 categories · 400+ subagent definitions
 │   ├── ai-specialists/            # prompt-engineer, llm-architect, ai-ethics-advisor…
@@ -264,9 +262,9 @@ In your project's `.claude/settings.json` (or `AGENTS.md`), point Claude at the 
 {
   "skills": {
     "search_paths": [
-      "../claude-skills-hub/skills/skills",
-      "../claude-skills-hub/favorites",
-      "../claude-skills-hub/agents/agents"
+      "../SKILLS-CLAUDE-CODE/skills/skills",
+      "../SKILLS-CLAUDE-CODE/favorites",
+      "../SKILLS-CLAUDE-CODE/agents/agents"
     ]
   }
 }
@@ -276,10 +274,10 @@ In your project's `.claude/settings.json` (or `AGENTS.md`), point Claude at the 
 
 ```bash
 # Copy one skill into your project
-cp -R claude-skills-hub/skills/skills/development/stripe-integration .claude/skills/
+cp -R SKILLS-CLAUDE-CODE/skills/skills/development/stripe-integration .claude/skills/
 
 # Or symlink (POSIX)
-ln -s "$(pwd)/claude-skills-hub/skills/skills/development/playwright" .claude/skills/playwright
+ln -s "$(pwd)/SKILLS-CLAUDE-CODE/skills/skills/development/playwright" .claude/skills/playwright
 ```
 
 ### 4. Track upstream sources with the lockfile
@@ -306,7 +304,7 @@ ln -s "$(pwd)/claude-skills-hub/skills/skills/development/playwright" .claude/sk
 PRs welcome — especially:
 
 1. **New skills** — follow the [`SKILL_SHAPE.md`](./claude-skills-main/claude-skills-main/SKILL_SHAPE.md) authoring guide from Jezweb.
-2. **Translations** — open an issue tagged [`i18n`](https://github.com/artubss/claude-skills-hub/issues/new?labels=i18n). The selector at the top of this file is wired with `<!-- LANGUAGE-SELECTOR-START/END -->` markers so future variants (`README.pt.md`, `README.es.md`, `README.zh.md`) drop in cleanly.
+2. **Translations** — open an issue tagged [`i18n`](https://github.com/artubss/SKILLS-CLAUDE-CODE/issues/new?labels=i18n). The selector at the top of this file is wired with `<!-- LANGUAGE-SELECTOR-START/END -->` markers so future variants (`README.pt.md`, `README.es.md`, `README.zh.md`) drop in cleanly.
 3. **Fixes / errata** — add `ERRATA.md` next to a `SKILL.md` instead of rewriting outdated content.
 4. **Curated favorites** — submit your daily-driver skills with a one-line "why it's awesome".
 
@@ -326,7 +324,7 @@ git push origin skill/<short-name>
 
 | Field | Suggested value |
 |-------|-----------------|
-| **Repository name** | `claude-skills-hub` |
+| **Repository name** | Current: `SKILLS-CLAUDE-CODE` — **strongly recommend renaming to `claude-skills-hub`** (lowercase + hyphens rank better on GitHub Search and Google; GitHub auto-redirects the old URL) |
 | **Description (About)** | `The largest curated collection of 1,044+ Claude Code skills, agents, hooks, MCP servers and slash-commands. Production-ready, lockfile-tracked, organized by 26 categories.` |
 | **Website** | `https://www.linkedin.com/in/artubs/` *(or your canonical site)* |
 | **Topics (12)** | `claude-code` · `claude-skills` · `anthropic` · `awesome-list` · `agent-skills` · `mcp` · `mcp-servers` · `ai-agents` · `prompt-engineering` · `cursor` · `developer-tools` · `automation` |
@@ -369,14 +367,14 @@ If your skill is included and you'd like attribution adjusted, open an issue —
 
 ### Star History
 
-<a href="https://www.star-history.com/#artubss/claude-skills-hub&Date">
-  <img alt="Star History" src="https://api.star-history.com/svg?repos=artubss/claude-skills-hub&type=Date" width="720">
+<a href="https://www.star-history.com/#artubss/SKILLS-CLAUDE-CODE&Date">
+  <img alt="Star History" src="https://api.star-history.com/svg?repos=artubss/SKILLS-CLAUDE-CODE&type=Date" width="720">
 </a>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,6,20,30&height=120&section=footer&text=Built%20for%20builders.%20Powered%20by%20Claude.&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer" />
 
-<sub>Last updated: <a href="https://github.com/artubss/claude-skills-hub/commits/main">see latest commits</a> · ⭐ a star helps it reach the next dev who needs it.</sub>
+<sub>Last updated: <a href="https://github.com/artubss/SKILLS-CLAUDE-CODE/commits/main">see latest commits</a> · ⭐ a star helps it reach the next dev who needs it.</sub>
 
 </div>
