@@ -365,17 +365,6 @@ If your skill is included and you'd like attribution adjusted, open an issue —
 
 <div align="center">
 
-### Repository Stats
-
-<a href="https://github.com/artubss/SKILLS-CLAUDE-CODE">
-  <img alt="Repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=artubss&repo=SKILLS-CLAUDE-CODE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=00D9FF" />
-</a>
-<a href="https://github.com/artubss/SKILLS-CLAUDE-CODE">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artubss&repo=SKILLS-CLAUDE-CODE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED" />
-</a>
-
-<br/><br/>
-
 ### Star History
 
 <a href="https://www.star-history.com/#artubss/SKILLS-CLAUDE-CODE&Date">
